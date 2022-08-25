@@ -1,0 +1,37 @@
+body {
+    background-image: url("doodel.jpg");
+}
+
+h1 {
+color:black;
+font-weight:900;
+text-shadow: 3px 2px slategray;
+}
+
+.copy_right_footer {
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align:center;
+}
+
+
+h3 {
+color:black;
+font-weight:900;
+}
+
+video {
+    margin-top:115px;
+    margin-left:300px;
+}
+canvas {
+    border:5px solid black;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+margin-top:0px;
+    margin-left:200px;
+}
